@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.villagerphone.mixin.client",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"VillagerModelMixin",
+		"VillagerRenderStateMixin",
+		"CrossedArmsItemLayerMixin",
+		"VillagerRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
