@@ -1,7 +1,7 @@
 # Villager Phone
 
 Every villager is glued to their phone. All of them. No exceptions.
-
+![villagers](villagers on phones.png)
 A Fabric mod for **Minecraft Java 26.1.2** that equips all villagers with a phone and makes them hold it up while staring at the screen.
 
 ## Requirements
